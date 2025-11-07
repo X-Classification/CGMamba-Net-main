@@ -1,0 +1,14 @@
+# 忽略所有 __pycache__ 文件夹（包括子目录）
+__pycache__/
+
+# 忽略 Python 编译缓存文件
+*.pyc
+*.pyo
+*.pyd
+
+# 其他可能不想上传的临时文件
+*.log
+*.tmp
+*.bak
+.DS_Store
+.env

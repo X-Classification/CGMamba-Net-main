@@ -1,8 +1,6 @@
 # CGMamba-Net
-<div align="center">
-<h1>CGMamba-Net</h1>
-<h3>Enhancing Skin Lesion Classification with Concentric Group Mamba Architecture</h3>
-<div>
+
+### Enhancing Skin Lesion Classification with Concentric Group Mamba Architecture
 
 ## Abstract
 
@@ -10,9 +8,7 @@ Skin lesion classification presents a significant challenge in dermatological di
 
 ## Overview
 
-<div align="center">
-<img src="assets/CGMamba-Net.png" />
-</div>
+![Overview](assets/CGMamba-Net.png)
 
 ## Getting Started
 
